@@ -1,4 +1,4 @@
-#### ### ##### ¿Quiénes somos ADC19?
+#### ### ##### Miembros ADC19K
 
  - [kingpipo18]
  - [Fernando-01]
