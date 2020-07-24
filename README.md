@@ -1,6 +1,7 @@
 #### ##### Miembros ADC19k
 
  -Creado por ADC19K
+ -Alfredo Murillo hizo git y github
 
  - [kingpipo18]
  - [Fernando-01]
